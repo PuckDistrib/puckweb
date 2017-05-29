@@ -12,8 +12,8 @@ What we call a named element for Java is the declaration of one of the following
 
 ## Set Definition
 
-* <set_id>=[possibly_rooted_named_element*]
-* <set_id>=union([set_id*])
+* "<set_id>"=[possibly_rooted_named_element*]
+* "<set_id>"=union([set_id*])
 
 For convenience, there is an import clause of the form
 import [named_element]
