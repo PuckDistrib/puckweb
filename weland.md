@@ -1,5 +1,6 @@
 ---
-layout = page
+layout: page
+title: weland
 ---
 
 Weland is a simple yet powerfull language to express decoupling intention. Its core predicate is of the form hide Xs except xs from Ys but-not-from ys.
@@ -14,3 +15,5 @@ Set Definition
 
 For convenience, there is an import clause of the form
 import [named_element]
+
+[home page](index.md)
