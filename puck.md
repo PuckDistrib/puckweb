@@ -71,3 +71,6 @@ Once you have performed some of the actions described above on the dependency gr
 At any time you can apply the refactoring plan i.e. generate the code with the apply button. The code is generated in an "out" folder at the root of the project workspace. Please note that the undo/redo button are only linked to the dependency graph. Once the code generated, if you want to do other transformations, or load a refactoring plan, you will have to reload the code first.
 
 If you check the "test commutativity" checkbox before applying the refactoring plan, puck will also compile the generated source, produce a dependency graph and compare it with the graph obtained from the refactoring plan.
+
+[home page](index.md)
+
