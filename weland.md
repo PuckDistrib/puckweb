@@ -18,4 +18,9 @@ What we call a named element for Java is the declaration of one of the following
 For convenience, there is an import clause of the form
 __import__ [named_element]
 
+## Coupling predicates
+
+* `hide<scope_set>[except<scope_set>][from<scope_set>][but-not-from<scope_set>]`
+* `<scope_set>friend-of<scope_set>`
+
 [home page](index.md)
