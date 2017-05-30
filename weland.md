@@ -16,7 +16,7 @@ __import__ [named_element]
 
 ## Coupling predicates
 
-* `hide<scope_set>[except<scope_set>][from<scope_set>][but-not-from<scope_set>]`
-* `<scope_set>friend-of<scope_set>`
+* `hide <scope_set> [except <scope_set>] [from <scope_set>] [but-not-from <scope_set>]`
+* `<scope_set> friend-of <scope_set>`
 
 [home page](index.md)
