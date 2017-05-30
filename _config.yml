@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+title: [Puck]
+description: [A Dependency Hunter & Breaker Tool]
+showDownloads: ["true"]
