@@ -41,24 +41,28 @@ For code generation, see Other Actions.
 Some options are available in the starting screen before opening the browser. In the middle column of this screen you can see a tree explorer of your project. Any selected element will be displayed in the browser and every unselected one will be hidden. The ``Package visibility'' button will select every packages and only them while the ``Package+Class visibility'' will also select every classes but not the methods nor the fields.
 Once in the browser you can right click on an element to access to the following options:
 
-## Collapse : hide every elements contained by the selected one.
-## Hide : collapse and hide also the selected one.
-## Expand : display only direct content of the selected element.
-## Expand All : display every elements recursively contained by the selected one.
+## Collapse
+hide every elements contained by the selected one.
+## Hide
+collapse and hide also the selected one.
+## Expand
+display only direct content of the selected element.
+## Expand All
+display every elements recursively contained by the selected one.
 
 # Checkboxes
 
-## Show signatures : Display methods' signatures.
-## Show ids : Display internal node Ids. Essentially usefull for debugging purposes.
-## Show Virtual Edges : Show the existence of dependency between hidden elements by displaying a dotted edge between their first visible parents.
-## Concrete Uses/Virtual Edge : Show on each virtual edges how many concrete uses they depict.
-## Show Red Only : Show only red edges.
+* Show signatures : Display methods' signatures.
+* Show ids : Display internal node Ids. Essentially usefull for debugging purposes.
+* Show Virtual Edges : Show the existence of dependency between hidden elements by displaying a dotted edge between their first visible parents.
+* Concrete Uses/Virtual Edge : Show on each virtual edges how many concrete uses they depict.
+* Show Red Only : Show only red edges.
 
 # Shortcuts:
 
-## Ctrl++ and Ctrl+- to zoom in or out.
-## Ctrl+Left click to select a zone to zoom in
-## Hold Shift+Left click to move the image
+* Ctrl++ and Ctrl+- to zoom in or out.
+* Ctrl+Left click to select a zone to zoom in
+* Hold Shift+Left click to move the image
 
 # Other actions
 
