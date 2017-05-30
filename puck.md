@@ -15,7 +15,7 @@ Once the dependency graph builded, you can click on the show graph button to ope
 
 The following categories of transformations are at your disposal.
 
-## Intro
+* Intro
 For now, only packages, classes and interfaces can be directly introduced. You just have to right-click on the future container and choose add [...] in the contextual menu. To add top level packages you need to click the ``Add package'' button in the bottom of the screen.
 
 * Abstract
