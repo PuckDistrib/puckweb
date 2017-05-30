@@ -1,7 +1,3 @@
----
-layout: page
-title: weland
----
 # Weland
 
 Weland is a simple yet powerfull language to express decoupling intention. Its core predicate is of the form __hide__ Xs __except__ xs __from__ Ys __but-not-from__ ys.
