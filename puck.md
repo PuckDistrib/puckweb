@@ -15,25 +15,25 @@ Once the dependency graph builded, you can click on the show graph button to ope
 
 The following categories of transformations are at your disposal.
 
-* Intro
+## Intro
 For now, only packages, classes and interfaces can be directly introduced. You just have to right-click on the future container and choose add [...] in the contextual menu. To add top level packages you need to click the ``Add package'' button in the bottom of the screen.
 
-* Abstract
+## Abstract
 You can right-click on any abstractable element (i.e any element except packages) and choose ``Abstract as ...'' in the contextual menu.
 
 ## Redirection - ''Use instead''
 Redirect, that is uses an element instead of another currently used is performed as follow : first select the uses to redirect (left-click) and then right-click on the new element to uses and select in the contextual menu ``Use this instead of ...''.
 
-* Move
+## Move
 To move an element, you have to select it (left-click on its name), then right click on his future new container and finally select ``Move [...] here'' in the contextual menu.
 
 ## Merge
 To merge an element with another, first select the element you want to see disappear. Second right-click on the other merging element and select in the contextual menu ``Merge into this''.
 
-* Rename
+## Rename
 Right-click > Rename
 
-* Delete
+## Delete
 This action is only available for unused node (no incomming uses arc). Right-click > Delete
 For code generation, see Other Actions.
 
