@@ -1,6 +1,6 @@
 # Welcome to PUCK
 
-This tool is developped by the [Move](https://www.lip6.fr/recherche/team.php?acronyme=MoVe) team at [UPMC](http://www.upmc.fr), [Sorbonne Universités](http://www.sorbonne-universites.fr/).
+This tool is developped by the [Move](https://www.lip6.fr/recherche/team.php?acronyme=MoVe) team at [LIP6](http://www.lip6.fr), [UPMC](http://www.upmc.fr), [Sorbonne Universités](http://www.sorbonne-universites.fr/).
 
 [__Puck__](puck.md) is an architecture refatoring tool focusing on dependency breaking. It dynamically generates a dependency graph viewable in an interactive UML-like format or using our graph explorer. It currently target only java programs.
 
