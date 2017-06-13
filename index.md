@@ -1,6 +1,6 @@
 # Welcome to PUCK
 
-__Puck__ is developped by the [Move](https://www.lip6.fr/recherche/team.php?acronyme=MoVe) team at [LIP6](http://www.lip6.fr), [UPMC](http://www.upmc.fr), [Sorbonne Universités](http://www.sorbonne-universites.fr/).
+__Puck__ is developed by the [Move](https://www.lip6.fr/recherche/team.php?acronyme=MoVe) team at [LIP6](http://www.lip6.fr), [UPMC](http://www.upmc.fr), [Sorbonne Universités](http://www.sorbonne-universites.fr/).
 
 List of contributors can be found [here](contributors.md).
 
