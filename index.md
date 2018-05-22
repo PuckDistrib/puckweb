@@ -8,4 +8,4 @@ List of contributors can be found [here](contributors.md).
 
 [__Weland__](weland.md) is a language interpreted by Puck to express coupling constraints. You can specify for each element of your program by whom it is accessible. You can easily browse through the constraint violations using filters based on violations sources or targets.
 
-Stable release and last builds can be found [here](https://puckdistrib.github.io/puck/).
+Stable release and last builds can be found [here](https://crb75.github.io/puck/).
