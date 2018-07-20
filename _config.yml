@@ -1,0 +1,4 @@
+theme: jekyll-theme-architect
+title: [Puck]
+description: [A Dependency Hunter & Breaker Tool]
+showDownloads: ["true"]
